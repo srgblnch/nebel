@@ -1,2 +1,6 @@
 # nebel
-middleware for IIoT
+[Fog computing](https://en.wikipedia.org/wiki/Fog_computing) _toy project_ middleware for IIoT (Industrial [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)).
+
+[_Nebel_](https://en.wikipedia.org/wiki/Nebel) means _fog_ in _Deutsch_. Why this name? Because the next step of [_cloud computing_](https://en.wikipedia.org/wiki/Cloud_computing) is _fog computing_. Nowadays the devices using cloud services, upload information to the cloud and gets back extra value information. Too often cloud is synonymous of "_someone else computer_". Apart from the privacy issues of transmit your information to a third party, there are other requirements like _bandwidth_ needed to move the data up and down, and finally this schema is not very far from [_client-server_](https://en.wikipedia.org/wiki/Client%E2%80%93server_model).
+
+From this idea this project starts. Can we use our devices to have our own [distributed system](https://en.wikipedia.org/wiki/Distributed_system) between them using their calculation capabilities, sharing their storage capacities, among other distributed system features? This question can be rebuild to: Can we move the cloud into our side? The fog is nothing else than be inside the cloud.
