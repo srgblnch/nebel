@@ -6,7 +6,7 @@ First of all any distributed system must be based on [uri](https://en.wikipedia.
 nebel:\[//\[user~~\[:password]~~@]host\[:port]]\[/path]\[?query]\[#fragment]
 ```
 
-* *user~~\[:password]~~*:
+* *user\[~~:password~~]*:
 * **host**:
 * **path**:
 * **query**:
