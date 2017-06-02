@@ -17,6 +17,6 @@ schema:\[//\[user\[:password]@]host\[:port]]\[/path]\[?query]\[#fragment]
 
 Examples:
 * *nebel://test/agent?id*: request an attribute 'id' to an agent in the 'test' distributed system.
-** It can be also _nebel://test/ag/en/t?i/d_ where 'agent' has on its name some kind of separators to define a hierarchy.
+  * It can be also _nebel://test/ag/en/t?i/d_ where 'agent' and 'id' have on their names some kind of separators to define a hierarchy.
 * *nebel:/agent?id*: request an attribute 'id' to an agent in the distributed system where one lives.
 * *nebel:?id*: requests an attribute of the distributed system where one lives.
