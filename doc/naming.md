@@ -1,6 +1,6 @@
 # nebel naming system
 
-**DRAFT**
+**DRAFT**: brainstorming
 
 First of all any distributed system must be based on [uri](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 
